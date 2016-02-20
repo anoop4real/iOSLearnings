@@ -1,5 +1,17 @@
 # iOSLearnings
 Things which I learned from practice and from others about iOS/tvOS
+* [Apple Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+* [Apple Design](https://developer.apple.com/design/)
+* [Apple OnDemand ResourceGuide](https://developer.apple.com/library/prerelease/ios/documentation/FileManagement/Conceptual/On_Demand_Resources_Guide/index.html#//apple_ref/doc/uid/TP40015083-CH2-SW1)
+* [APP THINNING](https://developer.apple.com/library/prerelease/watchos/documentation/IDEs/Conceptual/AppDistributionGuide/AppThinning/AppThinning.html)
+* [Voodo Pad](https://plausible.coop/voodoopad/)
+* [Markdown Tutorial](http://markdowntutorial.com/)
+* [Markdown Tutorial](https://help.github.com/articles/markdown-basics/)
+* [Icons](https://icons8.com/web-app/new-icons/all)
+* [Mock Design Tool](https://ninjamock.com/)
+* [SQLite Browser](http://sqlitebrowser.org/)
+* [XCode Edit Breakpoints](https://www.bignerdranch.com/blog/xcode-breakpoint-wizardry/)
+
 
 ###Display HTML in tvOS - Swift
 
