@@ -6,7 +6,6 @@ Things which I learned from practice and from others about iOS/tvOS
 * [APP THINNING](https://developer.apple.com/library/prerelease/watchos/documentation/IDEs/Conceptual/AppDistributionGuide/AppThinning/AppThinning.html)
 * [Voodo Pad](https://plausible.coop/voodoopad/)
 * [Markdown Tutorial](http://markdowntutorial.com/)
-* [Markdown Tutorial](https://help.github.com/articles/markdown-basics/)
 * [Icons](https://icons8.com/web-app/new-icons/all)
 * [Mock Design Tool](https://ninjamock.com/)
 * [SQLite Browser](http://sqlitebrowser.org/)
